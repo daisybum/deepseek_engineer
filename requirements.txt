@@ -1,0 +1,5 @@
+datasets>=2.12.0
+accelerate>=0.20.0
+langchain>=0.0.200
+pypdf>=3.8.0        # PyPDFLoader 사용을 위한 PDF 파서 (PyPDF)
+trl>=0.4.1          # Hugging Face TRL (PPO 기반 RL 파인튜닝)
